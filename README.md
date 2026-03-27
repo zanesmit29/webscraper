@@ -1,4 +1,4 @@
-# PrivateProperty Web Scraper
+# Property Web Scraper
 
 ## Main Use Case
 This web scraper automates the extraction of property listings from [PrivateProperty.co.za](https://www.privateproperty.co.za/) using Selenium and BeautifulSoup.  
